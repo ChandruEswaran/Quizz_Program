@@ -19,11 +19,6 @@ Designed for fun learning with simple UI.
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ChandruEswaran/Quizz_Pro.git
-
 ## 📸 Screenshots  
 
 ### Question One 
