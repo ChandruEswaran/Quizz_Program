@@ -24,5 +24,12 @@ Designed for fun learning with simple UI.
    ```bash
    git clone https://github.com/ChandruEswaran/Quizz_Pro.git
 
+## 📸 Screenshots  
+
+### Question One 
+![Question One](Quizz-1.png)
+
+### Answer 
+![Answer](Ans.png)
 
 ---
